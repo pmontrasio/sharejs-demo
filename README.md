@@ -1,6 +1,7 @@
 # Textarea demo
 
 Example for share.js https://github.com/share/ShareJS
+Based on the examples found there.
 
 It works with the latest connect (3.2.0 at the time of writing)
 
