@@ -1,0 +1,12 @@
+{
+  "name": "sharejs-demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "browserchannel": "2.0.x",
+    "connect": "3.2.x",
+    "livedb": "0.4.x",
+    "serve-static": "1.6.x",
+    "share": "0.7.x"
+  },
+  "engine": "node >= 0.10.0"
+}
